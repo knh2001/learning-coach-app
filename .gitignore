@@ -46,4 +46,22 @@ env/
 
 # Logs
 *.log
-logs/ 
+logs/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backup files
+*.backup
+*~
+
+# Sensitive files
+firebase-key.json
+*.json
+!package.json
+!package-lock.json
+
+# Dev container
+.devcontainer/ 
