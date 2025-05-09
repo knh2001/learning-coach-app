@@ -3,3 +3,6 @@ openai
 streamlit-mic-recorder
 edge-tts
 Pillow
+nest-asyncio
+python-dotenv
+firebase-admin
